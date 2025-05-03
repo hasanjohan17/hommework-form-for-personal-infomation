@@ -173,6 +173,7 @@ button[type="submit"] {
   transition: background 0.2s, transform 0.2s;
   box-shadow: 0 2px 8px rgba(155, 89, 182, 0.10);
   animation: glow 0.8s forwards alternate infinite;
+  text-decoration: none;
 }
 
 
